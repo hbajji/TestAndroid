@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Star wars</string>
+    <string name="sorted_by_title"> Trier par titre</string>
+    <string name="sorted_by_date">Trier par date</string>
+    <string name="initial">Remettre par défaut</string>
+
+</resources>
